@@ -1,0 +1,9 @@
+public/templates_c/*
+!public/templates_c/.gitkeep
+
+database/*.dump
+
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store
