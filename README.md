@@ -47,17 +47,17 @@ Aplikacja została zaprojektowana w architekturze MVC z nowatorskim mechanizmem 
 <br>
 
 <p align="center">
-  <img src="docs/screenshots/library.png" alt="Twoja Biblioteka">
+  <img src="docs/screenshots/orders.png" alt="Panel zamówień">
   <br>
-  <em>Rysunek 3: Biblioteka użytkownika z odtwarzaczami audio i licznikiem ważności wypożyczenia.</em>
+  <em>Rysunek 3: Panel pracownika do weryfikacji płatności i akceptacji zamówień.</em>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="docs/screenshots/orders.png" alt="Panel zamówień">
+  <img src="docs/screenshots/library.png" alt="Twoja Biblioteka">
   <br>
-  <em>Rysunek 4: Panel pracownika do weryfikacji płatności i akceptacji zamówień.</em>
+  <em>Rysunek 4: Biblioteka użytkownika z odtwarzaczami audio i licznikiem ważności wypożyczenia.</em>
 </p>
 
 <br>
