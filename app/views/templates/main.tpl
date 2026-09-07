@@ -163,7 +163,8 @@
                 <div class="col-md-6 widget">
                     <div class="widget-body">
                         <p class="text-right">
-                            Copyright &copy; 2026 Adrian Budny. Based on a modified template by <a href="https://gettemplate.com" target="_blank" rel="noopener noreferrer">Sergey Pozhilov (GetTemplate)</a>
+                            Copyright &copy; 2026 Adrian Budny. 
+                            <a href="#creditsModal" data-toggle="modal">Podziękowania / Credits</a>
                         </p>
                     </div>
                 </div>
@@ -172,6 +173,30 @@
         </div>
     </div>
 </footer>
+</div>
+
+<div class="modal fade" id="creditsModal" tabindex="-1" role="dialog">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Podziękowania i licencje zasobów</h4>
+      </div>
+      <div class="modal-body text-left">
+        <p><strong>Szablon interfejsu:</strong> projekt oparty na zmodyfikowanym szablonie <a href="https://gettemplate.com" target="_blank">Progressus</a> autorstwa Sergeya Pozhilova, udostępnionym na licencji <a href="https://creativecommons.org/licenses/by/3.0/" target="_blank">CC BY 3.0</a>.</p>
+        <p><strong>Grafika w tle (Hero Banner):</strong> grafika autorstwa <a href="https://unsplash.com/@a_chosensoul" target="_blank">A Chosen Soul</a> z serwisu <a href="https://unsplash.com/" target="_blank">Unsplash</a>.</p>
+        <p><strong>Materiały multimedialne (audio i okładki):</strong></p>
+        <ul>
+          <li><em>Cool Hard Facts</em> - Kevin MacLeod (<a href="https://incompetech.com/" target="_blank">incompetech.com</a>), licencja: <a href="http://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>. <br>
+          <em>Okładka:</em> zdjęcie autorstwa <a href="https://unsplash.com/@austin_7792" target="_blank">Austin</a> z serwisu <a href="https://unsplash.com/" target="_blank">Unsplash</a>.</p></li>
+          <li><em>Adventures in Adventureland</em> - Kevin MacLeod  (<a href="https://incompetech.com/" target="_blank">incompetech.com</a>), licencja: <a href="http://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>. <br>
+          <em>Okładka:</em> zdjęcie autorstwa <a href="https://unsplash.com/@jessica_anderson" target="_blank">Jessica Anderson</a> z serwisu <a href="https://unsplash.com/" target="_blank">Unsplash</a>.</p></li>
+          <li><em>Raving Energy (faster)</em> - Kevin MacLeod (<a href="https://incompetech.com/" target="_blank">incompetech.com</a>), licencja: <a href="http://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>. <br> 
+          <em>Okładka:</em> grafika autorstwa <a href="https://unsplash.com/@fakurian" target="_blank">Milad Fakurian</a> z serwisu <a href="https://unsplash.com/" target="_blank">Unsplash</a>.</p></li>
+        </ul>
+      </div>
+    </div>
+  </div>
 </div>
     
 <!-- JavaScript libs are placed at the end of the document so the pages load faster -->
