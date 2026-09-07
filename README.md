@@ -77,7 +77,7 @@ Projekt wykorzystuje relacyjną strukturę danych zapewniającą pełną integra
 <p align="center">
   <img src="docs/screenshots/database.png" alt="Schemat relacji bazy danych">
   <br>
-  <em>Schemat relacji tabel (ERD) w bazie danych MySQL/MariaDB.</em>
+  <em>Rysunek 6: Schemat relacji tabel (ERD) w bazie danych MySQL/MariaDB.</em>
 </p>
 
 ---
