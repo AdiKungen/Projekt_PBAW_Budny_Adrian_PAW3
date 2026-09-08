@@ -96,6 +96,7 @@ Projekt wykorzystuje relacyjną strukturę danych zapewniającą pełną integra
 
 * **Szablon interfejsu:** projekt oparty na zmodyfikowanym szablonie [Progressus](https://gettemplate.com/) autorstwa Sergeya Pozhilova, udostępnionym na licencji [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
 * **Grafika w tle (Hero Banner):** grafika autorstwa [A Chosen Soul](https://unsplash.com/@a_chosensoul) z serwisu [Unsplash](https://unsplash.com).
+* **Ikona słuchawek:** ikona z serwisu [Font Awesome Free](https://fontawesome.com/) udostępniona na licencji [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 * **Materiały multimedialne (audio i okładki):**
   * *"Cool Hard Facts"* - Kevin MacLeod ([incompetech.com](https://incompetech.com)), licencja: [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).  
     *Okładka:* zdjęcie autorstwa [Austin](https://unsplash.com/@austin_7792) z serwisu [Unsplash](https://unsplash.com).
