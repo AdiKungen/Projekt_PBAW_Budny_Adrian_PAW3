@@ -48,7 +48,7 @@
                     {/if}
 
                     {if isset($conf->roles["admin"])}
-                        <li><a href="{$conf->action_root}userList">Panel administratora</a></li>
+                        <li><a href="{$conf->action_root}userList">Panel Administratora</a></li>
                     {/if}
 
                     {if count($conf->roles)>0}
@@ -144,7 +144,7 @@
         
                             {if isset($conf->roles["admin"])}
                                 <a> | </a>
-                                <a href="{$conf->action_root}userList">Panel administratora</a>
+                                <a href="{$conf->action_root}userList">Panel Administratora</a>
                             {/if}
 
                             <a> | </a>

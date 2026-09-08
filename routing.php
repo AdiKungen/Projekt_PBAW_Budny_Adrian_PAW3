@@ -20,7 +20,7 @@ Utils::addRoute('deleteCart', 'ShopCtrl', ['user']);
 Utils::addRoute('orderShow', 'OrderCtrl', ['worker']);
 Utils::addRoute('detailOrder', 'OrderCtrl', ['worker']);
 Utils::addRoute('acceptOrder', 'OrderCtrl', ['worker']);
-Utils::addRoute('libraryShow', 'libraryCtrl', ['user']);
+Utils::addRoute('libraryShow', 'LibraryCtrl', ['user']);
 Utils::addRoute('userList', 'UserListCtrl', ['admin']);
 Utils::addRoute('userListTable', 'UserListCtrl', ['admin']);
 Utils::addRoute('userEdit', 'UserEditCtrl', ['admin']);
