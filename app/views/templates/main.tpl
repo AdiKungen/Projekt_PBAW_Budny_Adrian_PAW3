@@ -185,6 +185,7 @@
       <div class="modal-body text-left">
         <p><strong>Szablon interfejsu:</strong> projekt oparty na zmodyfikowanym szablonie <a href="https://gettemplate.com" target="_blank">Progressus</a> autorstwa Sergeya Pozhilova, udostępnionym na licencji <a href="https://creativecommons.org/licenses/by/3.0/" target="_blank">CC BY 3.0</a>.</p>
         <p><strong>Grafika w tle (Hero Banner):</strong> grafika autorstwa <a href="https://unsplash.com/@a_chosensoul" target="_blank">A Chosen Soul</a> z serwisu <a href="https://unsplash.com/" target="_blank">Unsplash</a>.</p>
+        <p><strong>Ikona słuchawek:</strong> ikona z serwisu <a href="https://fontawesome.com/" target="_blank">Font Awesome Free</a> udostępniona na licencji <a href="http://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>.</p>
         <p><strong>Materiały multimedialne (audio i okładki):</strong></p>
         <ul>
           <li><em>Cool Hard Facts</em> - Kevin MacLeod (<a href="https://incompetech.com/" target="_blank">incompetech.com</a>), licencja: <a href="http://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>. <br>
