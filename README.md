@@ -2,13 +2,22 @@
 
 Internetowa platforma typu pay-per-time umożliwiająca czasowe wypożyczanie utworów muzycznych z wbudowanym odtwarzaczem oraz panelem zarządzania zamówieniami.
 
+> [!IMPORTANT]
+> ### Wersja demonstracyjna na żywo (Live Demo)
+> Przetestuj działającą aplikację: **[musicker.freedev.app](https://musicker.freedev.app/public)**
+>
+> **Konta testowe:**
+> * **Administrator:** login: `admin` | hasło: `admin123`
+> * **Pracownik:** login: `worker` | hasło: `worker123`
+> * **Użytkownik:** login: `user` | hasło: `user123`
+
 ---
 
 ## O projekcie
 
 **Musicker** to aplikacja webowa realizująca model biznesowy czasowego dostępu do utworów audio (wypożyczalnia na godziny). System zarządza cyklem życia zamówienia: od wyboru utworów z katalogu i określenia czasu trwania licencji, przez manualną weryfikację płatności przez pracowników, aż po automatyczne wygaszanie dostępu po upływie wykupionego czasu.
 
-Aplikacja została zaprojektowana w architekturze MVC z nowatorskim mechanizmem routingu i wstrzykiwania zależności w warstwie rdzennej (`core`).
+Aplikacja została zaprojektowana w architekturze MVC z intuicyjnym mechanizmem routingu i wstrzykiwania zależności w warstwie rdzennej (`core`).
 
 ---
 
