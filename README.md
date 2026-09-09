@@ -101,6 +101,10 @@ Projekt wykorzystuje relacyjną strukturę danych zapewniającą pełną integra
 
 ---
 
+## Instrukcja instalacji i uruchomienia
+
+---
+
 ## Podziękowania / Credits
 
 * **Szablon interfejsu:** projekt oparty na zmodyfikowanym szablonie [Progressus](https://gettemplate.com/) autorstwa Sergeya Pozhilova, udostępnionym na licencji [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
