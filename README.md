@@ -104,7 +104,7 @@ Projekt wykorzystuje relacyjną strukturę danych zapewniającą pełną integra
 ## Instrukcja instalacji i uruchomienia
 
 ### Wymagania
-* Środowisko lokalne: XAMPP / WampServer / LAMP (PHP >= 7.4/8.x, MySQL/MariaDB, Apache z włączonym `mod_rewrite`)
+Środowisko lokalne: XAMPP / WampServer / LAMP (PHP >= 7.4/8.x, MySQL/MariaDB, Apache z włączonym `mod_rewrite`)
 
 ### Krok po kroku
 
@@ -128,13 +128,15 @@ Projekt wykorzystuje relacyjną strukturę danych zapewniającą pełną integra
    $conf->db_user = 'root';
    $conf->db_pass = '';
    ```
+   
 5. **Uruchomienie:** <br>
    Otwórz przeglądarkę i wpisz:
-   ```
+   ```text
    http://localhost/Projekt_PBAW_Budny_Adrian_PAW3/public/
    ```
 
-### Konta testowe:
+### Konta testowe do weryfikacji ról
+W bazie danych przygotowano konta demonstracyjne umożliwiające sprawdzenie uprawnień:
 * **Administrator:** login: `admin` | hasło: `admin123`
 * **Pracownik:** login: `worker` | hasło: `worker123`
 * **Użytkownik:** login: `user` | hasło: `user123`
