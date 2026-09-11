@@ -111,7 +111,7 @@ Projekt wykorzystuje relacyjną strukturę danych zapewniającą pełną integra
 1. **Sklonuj repozytorium:** <br>
    Umieść projekt w katalogu serwera (dla XAMPP: `htdocs/`):
    ```bash
-   git clone https://github.com/AdiKungen/Projekt_PBAW_Budny_Adrian_PAW3
+   git clone https://github.com/AdiKungen/Projekt_PBAW_Budny_Adrian_PAW3.git
    ```
    
 2. **Import bazy danych:** <br>
