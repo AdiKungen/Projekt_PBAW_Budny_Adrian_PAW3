@@ -121,7 +121,7 @@ Projekt wykorzystuje relacyjną strukturę danych zapewniającą pełną integra
 
 4. **Konfiguracja połączenia:** <br>
    Dostosuj dane logowania do bazy w pliku `config.php`:
-   ```bash
+   ```php
    $conf->server_name = 'localhost';
    $conf->app_root = '/Projekt_PBAW_Budny_Adrian_PAW3/public';
    $conf->db_name = 'musicker';
