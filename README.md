@@ -103,6 +103,42 @@ Projekt wykorzystuje relacyjną strukturę danych zapewniającą pełną integra
 
 ## Instrukcja instalacji i uruchomienia
 
+### Wymagania
+* Środowisko lokalne: XAMPP / WampServer / LAMP (PHP >= 7.4/8.x, MySQL/MariaDB, Apache z włączonym `mod_rewrite`)
+
+### Krok po kroku
+
+1. **Sklonuj repozytorium:** <br>
+   Umieść projekt w katalogu serwera (dla XAMPP: `htdocs/`):
+   ```bash
+   git clone https://github.com/AdiKungen/Projekt_PBAW_Budny_Adrian_PAW3
+   ```
+   
+2. **Import bazy danych:** <br>
+   * Otwórz phpMyAdmin (`http://localhost/phpmyadmin`).
+   * Utwórz nową bazę danych o nazwie `musicker`.
+   * Zaimportuj plik struktury: `database/musicker.sql`.
+
+4. **Konfiguracja połączenia:** <br>
+   Dostosuj dane logowania do bazy w pliku `config.php`:
+   ```bash
+   $conf->server_name = 'localhost';
+   $conf->app_root = '/Projekt_PBAW_Budny_Adrian_PAW3/public';
+   $conf->db_name = 'musicker';
+   $conf->db_user = 'root';
+   $conf->db_pass = '';
+   ```
+5. **Uruchomienie:** <br>
+   Otwórz przeglądarkę i wpisz:
+   ```
+   http://localhost/Projekt_PBAW_Budny_Adrian_PAW3/public/
+   ```
+
+### Konta testowe:
+* **Administrator:** login: `admin` | hasło: `admin123`
+* **Pracownik:** login: `worker` | hasło: `worker123`
+* **Użytkownik:** login: `user` | hasło: `user123`
+
 ---
 
 ## Podziękowania / Credits
