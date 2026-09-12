@@ -106,7 +106,7 @@ Projekt wykorzystuje relacyjną strukturę danych zapewniającą pełną integra
 ### Wymagania
 Środowisko lokalne: XAMPP / WampServer / LAMP (PHP >= 7.4/8.x, MySQL/MariaDB, Apache z włączonym `mod_rewrite`)
 
-### Krok po kroku
+### Instrukcja
 
 1. **Sklonuj repozytorium:** <br>
    Umieść projekt w katalogu serwera (dla XAMPP: `htdocs/`):
