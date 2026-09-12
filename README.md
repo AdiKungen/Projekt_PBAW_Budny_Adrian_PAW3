@@ -106,10 +106,10 @@ Projekt wykorzystuje relacyjną strukturę danych zapewniającą pełną integra
 ### Wymagania
 Środowisko lokalne: XAMPP / WampServer / LAMP (PHP >= 7.4/8.x, MySQL/MariaDB, Apache z włączonym `mod_rewrite`)
 
-### Instrukcja
+### Instrukcja (dla XAMPP)
 
 1. **Sklonuj repozytorium:** <br>
-   Umieść projekt w katalogu serwera (dla XAMPP: `htdocs/`):
+   Umieść projekt w katalogu serwera `htdocs/`:
    ```bash
    git clone https://github.com/AdiKungen/Projekt_PBAW_Budny_Adrian_PAW3.git
    ```
