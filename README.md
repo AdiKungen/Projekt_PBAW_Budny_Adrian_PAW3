@@ -94,6 +94,7 @@ Projekt wykorzystuje relacyjną strukturę danych zapewniającą pełną integra
 ## Technologie i narzędzia
 
 * **Backend:** PHP 8.x (Architektura MVC, OOP)
+* **Framework:** [Amelia Framework](https://amelia-framework.eu/) (lekki mikroramowy silnik MVC dla PHP)
 * **Baza danych / ORM:** MySQL / MariaDB + [Medoo Database Framework](https://medoo.in/) (interfejs PDO)
 * **Silnik szablonów:** Smarty Template Engine
 * **Frontend:** HTML5 (Audio API), CSS3, JavaScript, Bootstrap 3, FontAwesome
@@ -145,6 +146,7 @@ W bazie danych przygotowano konta demonstracyjne umożliwiające sprawdzenie upr
 
 ## Podziękowania / Credits
 
+* **Framework:** [Amelia Framework](https://amelia-framework.eu/) autorstwa Przemysława Kudłacika.
 * **Szablon interfejsu:** projekt oparty na zmodyfikowanym szablonie [Progressus](https://gettemplate.com/) autorstwa Sergeya Pozhilova, udostępnionym na licencji [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
 * **Grafika w tle (Hero Banner):** grafika autorstwa [A Chosen Soul](https://unsplash.com/@a_chosensoul) z serwisu [Unsplash](https://unsplash.com).
 * **Ikona słuchawek:** ikona z serwisu [Font Awesome Free](https://fontawesome.com/) udostępniona na licencji [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
