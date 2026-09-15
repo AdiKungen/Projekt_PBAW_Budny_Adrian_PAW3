@@ -10,7 +10,7 @@
 
 	<link rel="shortcut icon" href="{$conf->app_root}/assets/images/gt_favicon.png">
 	
-	<link rel="stylesheet" media="screen" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
+	<link rel="stylesheet" media="screen" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 	<link rel="stylesheet" href="{$conf->app_root}/assets/css/bootstrap.min.css">
 	<link rel="stylesheet" href="{$conf->app_root}/assets/css/font-awesome.min.css">
 
@@ -112,8 +112,8 @@
                 <div class="col-md-6 widget">
                     <h3 class="widget-title">Pomoc</h3>
                     <div class="widget-body">
-                        <p>Jeśli wystąpiłyby jakieś problemy, błędy, bądź miałbyś jakieś pytanie proszę kontaktować się z nami drogą mailową lub w sprawach pilnych sugerujemy kontakt telefoniczny w godzinach 8-16</p>
-                        <p>Dziękujemy za korzystanie z naszych usług i postaramy się odpowiedzieć najszybciej jak jest to możliwe</p>
+                        <p>Jeśli wystąpiłyby jakieś problemy, błędy, bądź miałbyś jakieś pytanie proszę kontaktować się z nami drogą mailową lub w sprawach pilnych sugerujemy kontakt telefoniczny w godzinach 8-16.</p>
+                        <p>Dziękujemy za korzystanie z naszych usług i postaramy się odpowiedzieć najszybciej jak jest to możliwe.</p>
                     </div>
                 </div>
 
@@ -125,7 +125,7 @@
         <div class="container">
             <div class="row">
                 
-                <div class="col-md-6 widget">
+                <div class="col-md-5 widget">
                     <div class="widget-body">
                         <p class="simplenav">
                             {if isset($conf->roles["user"]) || count($conf->roles) == 0}
@@ -159,8 +159,16 @@
                         </p>
                     </div>
                 </div>
-
-                <div class="col-md-6 widget">
+				<div class="col-md-3 widget">
+                    <div class="widget-body">
+						<p class="text-muted small">
+							<p class="text-muted small">
+								<strong>Disclaimer:</strong> This website was built solely for educational and portfolio demonstration purposes. It does not provide commercial services.
+							</p>
+						</p>
+					</div>
+                </div>
+                <div class="col-md-4 widget">
                     <div class="widget-body">
                         <p class="text-right">
                             Copyright &copy; 2026 Adrian Budny. 
@@ -202,8 +210,8 @@
 </div>
     
 <!-- JavaScript libs are placed at the end of the document so the pages load faster -->
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
 <script src="{$conf->app_root}/assets/js/headroom.min.js"></script>
 <script src="{$conf->app_root}/assets/js/jQuery.headroom.min.js"></script>
 <script src="{$conf->app_root}/assets/js/template.js"></script>

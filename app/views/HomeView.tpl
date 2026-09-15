@@ -71,22 +71,22 @@
 		<div class="row">
 			<div class="col-sm-6">
 				<h3>Co się stanie z piosenkami, kiedy skończy się czas wypożyczenia?</h3>
-				<p>Piosenki, które wypożyczyłeś, a zakończył się ich czas wypożyczenia zostaną automatycznie usunięte z twojego konta i dostępne do ponownego wypożyczenia</p>
+				<p>Piosenki, które wypożyczyłeś, a zakończył się ich czas wypożyczenia zostaną automatycznie usunięte z twojego konta i dostępne do ponownego wypożyczenia.</p>
 			</div>
 			<div class="col-sm-6">
 				<h3>Kiedy piosenki pojawią się w mojej bibliotece?</h3>
-				<p>Piosenki pojawią się w twojej bibliotece zaraz po tym jak potwierdzimy wpływ opłaty za zamówienie</p>
+				<p>Piosenki pojawią się w twojej bibliotece zaraz po tym jak potwierdzimy wpływ opłaty za zamówienie.</p>
 			</div>
 		</div> <!-- /row -->
 
 		<div class="row">
 			<div class="col-sm-6">
 				<h3>Na jaki czas mogę wypożyczyć piosenkę?</h3>
-				<p>Wypożyczenia piosenek rozpoczynają się od 1 godziny, aż do 48 godzin dla jednego zamówienia</p>
+				<p>Wypożyczenia piosenek rozpoczynają się od 1 godziny, aż do 48 godzin dla jednego zamówienia.</p>
 			</div>
 			<div class="col-sm-6">
 				<h3>Czy wypożyczoną piosenkę mogę udostępniać dalej?</h3>
-				<p>Nie, piosenka wypożyczona jest dostępna tylko i wyłącznie do użytku własnego i nie można jej kapitalizować pod zakazem licencyjnym</p>
+				<p>Nie, piosenka wypożyczona jest dostępna tylko i wyłącznie do użytku własnego i nie można jej kapitalizować pod zakazem licencyjnym.</p>
 			</div>
 		</div> <!-- /row -->
 
