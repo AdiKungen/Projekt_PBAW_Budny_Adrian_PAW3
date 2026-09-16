@@ -162,10 +162,10 @@ W bazie danych przygotowano konta demonstracyjne umożliwiające sprawdzenie upr
 
 ## Zastrzeżenie / Disclaimer
 
-**PL:**
+**PL:**  
 Serwis został stworzony wyłącznie w celach edukacyjnych i prezentacji portfolio. Nie prowadzi działalności komercyjnej.
 
-**EN:**
+**EN:**  
 This website was built solely for educational and portfolio demonstration purposes. It does not provide commercial services.
 
 ---
