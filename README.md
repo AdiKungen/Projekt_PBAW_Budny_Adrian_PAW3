@@ -14,6 +14,7 @@ Internetowa platforma typu pay-per-time umożliwiająca czasowe wypożyczanie ut
 ---
 
 ## O projekcie
+Projekt został wykonany w ramach zajęć "Projektowanie bazodanowych aplikacji webowych" na semestrze letnim 2022/2023, studiów pierwszego stopnia.
 
 **Musicker** to aplikacja webowa realizująca model biznesowy czasowego dostępu do utworów audio (wypożyczalnia na godziny). System zarządza cyklem życia zamówienia: od wyboru utworów z katalogu i określenia czasu trwania licencji, przez manualną weryfikację płatności przez pracowników, aż po automatyczne wygaszanie dostępu po upływie wykupionego czasu.
 
