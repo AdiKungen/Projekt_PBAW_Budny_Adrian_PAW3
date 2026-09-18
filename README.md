@@ -14,7 +14,7 @@ Internetowa platforma typu pay-per-time umożliwiająca czasowe wypożyczanie ut
 ---
 
 ## O projekcie
-Projekt został wykonany w ramach zajęć "Projektowanie bazodanowych aplikacji webowych" na semestrze letnim 2022/2023, studiów pierwszego stopnia.
+Projekt został wykonany w ramach zajęć „Projektowanie bazodanowych aplikacji webowych” na semestrze letnim 2022/2023, studiów pierwszego stopnia.
 
 **Musicker** to aplikacja webowa realizująca model biznesowy czasowego dostępu do utworów audio (wypożyczalnia na godziny). System zarządza cyklem życia zamówienia: od wyboru utworów z katalogu i określenia czasu trwania licencji, przez manualną weryfikację płatności przez pracowników, aż po automatyczne wygaszanie dostępu po upływie wykupionego czasu.
 
@@ -152,11 +152,11 @@ W bazie danych przygotowano konta demonstracyjne umożliwiające sprawdzenie upr
 * **Grafika w tle (Hero Banner):** grafika autorstwa [A Chosen Soul](https://unsplash.com/@a_chosensoul) z serwisu [Unsplash](https://unsplash.com).
 * **Ikona słuchawek:** ikona z serwisu [Font Awesome Free](https://fontawesome.com/) udostępniona na licencji [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 * **Materiały multimedialne (audio i okładki):**
-  * *"Cool Hard Facts"* - Kevin MacLeod ([incompetech.com](https://incompetech.com)), licencja: [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).  
+  * *„Cool Hard Facts”* - Kevin MacLeod ([incompetech.com](https://incompetech.com)), licencja: [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).  
     *Okładka:* zdjęcie autorstwa [Austin](https://unsplash.com/@austin_7792) z serwisu [Unsplash](https://unsplash.com).
-  * *"Adventures in Adventureland"* - Kevin MacLeod ([incompetech.com](https://incompetech.com)), licencja: [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).  
+  * *„Adventures in Adventureland”* - Kevin MacLeod ([incompetech.com](https://incompetech.com)), licencja: [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).  
     *Okładka:* zdjęcie autorstwa [Jessica Anderson](https://unsplash.com/@jessica_anderson) z serwisu [Unsplash](https://unsplash.com).
-  * *"Raving Energy (faster)"* - Kevin MacLeod ([incompetech.com](https://incompetech.com)), licencja: [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).  
+  * *„Raving Energy (faster)”* - Kevin MacLeod ([incompetech.com](https://incompetech.com)), licencja: [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).  
     *Okładka:* grafika autorstwa [Milad Fakurian](https://unsplash.com/@fakurian) z serwisu [Unsplash](https://unsplash.com).
 
 ---
