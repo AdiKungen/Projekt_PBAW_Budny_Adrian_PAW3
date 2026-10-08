@@ -99,7 +99,7 @@ Projekt wykorzystuje relacyjną strukturę danych zapewniającą pełną integra
 * **Baza danych / ORM:** MySQL / MariaDB + [Medoo Database Framework](https://medoo.in/) (interfejs PDO)
 * **Silnik szablonów:** Smarty Template Engine
 * **Frontend:** HTML5 (Audio API), CSS3, JavaScript, Bootstrap 3, FontAwesome
-* **Serwer lokalny:** Apache (mod_rewrite zoptymalizowany pod konfigurację `.htaccess`) / XAMPP
+* **Serwer lokalny:** Apache (`mod_rewrite` zoptymalizowany pod konfigurację `.htaccess`) / XAMPP
 
 ---
 
