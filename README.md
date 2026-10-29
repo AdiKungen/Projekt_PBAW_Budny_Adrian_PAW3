@@ -18,7 +18,7 @@ Projekt został wykonany w ramach zajęć „Projektowanie bazodanowych aplikacj
 
 **Musicker** to aplikacja webowa realizująca model biznesowy czasowego dostępu do utworów audio (wypożyczalnia na godziny). System zarządza cyklem życia zamówienia: od wyboru utworów z katalogu i określenia czasu trwania licencji, przez manualną weryfikację płatności przez pracowników, aż po automatyczne wygaszanie dostępu po upływie wykupionego czasu.
 
-Aplikacja została zrealizowana w architekturze MVC przy użyciu Amelia Framework, który zapewnia modularny routing oraz obsługę wstrzykiwania zależności w warstwie rdzennej (core).
+Aplikacja została zrealizowana w architekturze MVC przy użyciu Amelia Framework, który zapewnia modularny routing oraz obsługę wstrzykiwania zależności w warstwie rdzennej (`core`).
 
 ---
 
