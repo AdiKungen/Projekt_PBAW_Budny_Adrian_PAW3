@@ -99,14 +99,14 @@ Projekt wykorzystuje relacyjną strukturę danych zapewniającą pełną integra
 * **Baza danych / ORM:** MySQL / MariaDB + [Medoo Database Framework](https://medoo.in/) (interfejs PDO)
 * **Silnik szablonów:** Smarty Template Engine
 * **Frontend:** HTML5 (Audio API), CSS3, JavaScript, Bootstrap 3, FontAwesome
-* **Serwer lokalny:** Apache (`mod_rewrite` zoptymalizowany pod konfigurację `.htaccess`) / XAMPP
+* **Serwer lokalny:** Apache (mod_rewrite zoptymalizowany pod konfigurację `.htaccess`) / XAMPP
 
 ---
 
 ## Instrukcja instalacji i uruchomienia
 
 ### Wymagania
-Środowisko lokalne: XAMPP / WampServer / LAMP (PHP >= 7.4/8.x, MySQL/MariaDB, Apache z włączonym `mod_rewrite`)
+Środowisko lokalne: XAMPP / WampServer / LAMP (PHP >= 7.4/8.x, MySQL/MariaDB, Apache z włączonym mod_rewrite)
 
 ### Instrukcja (dla XAMPP)
 
