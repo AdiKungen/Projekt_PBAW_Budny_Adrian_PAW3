@@ -106,7 +106,7 @@ Projekt wykorzystuje relacyjną strukturę danych zapewniającą pełną integra
 ## Instrukcja instalacji i uruchomienia
 
 ### Wymagania
-Środowisko lokalne: XAMPP / WampServer / LAMP (PHP >= 7.4/8.x, MySQL/MariaDB, Apache z włączonym `mod_rewrite`)
+Środowisko lokalne: XAMPP / WampServer / LAMP (PHP >= 7.4/8.x, MySQL/MariaDB, Apache z włączonym mod_rewrite)
 
 ### Instrukcja (dla XAMPP)
 
