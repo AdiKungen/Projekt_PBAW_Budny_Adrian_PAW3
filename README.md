@@ -28,7 +28,7 @@ Aplikacja została zrealizowana w architekturze MVC przy użyciu Amelia Framewor
 * **Uwierzytelnianie i dynamiczny interfejs:**
   * Moduł rejestracji z podwójną walidacją hasła oraz formularz logowania.
   * Pasek nawigacyjny adaptujący się do stanu sesji (osobny widok dla gościa oraz osobny widok zalogowanego użytkownika z prezentacją bieżącego loginu).
-* **Zaawansowany system kontroli dostępu (RBAC):**
+* **Zaawansowany system kontroli dostępu (`RBAC`):**
   * `Gość / Użytkownik początkowy`: dostęp do strony głównej, podglądu katalogu utworów z filtrowaniem oraz modułu logowania/rejestracji.
   * `User`: katalog utworów z filtrowaniem, koszyk z naliczaniem stawki godzinowej, prywatna biblioteka z odtwarzaczem audio HTML5.
   * `Worker`: podgląd bieżących zamówień, weryfikacja uiszczenia zapłaty i aktywacja licencji czasowej.
