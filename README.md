@@ -65,7 +65,7 @@ Aplikacja została zrealizowana w architekturze MVC przy użyciu Amelia Framewor
 <br>
 
 <p align="center">
-  <img src="docs/screenshots/library.png" alt="Widok Twojej Biblioteka">
+  <img src="docs/screenshots/library.png" alt="Twoja Biblioteka">
   <br>
   <em>Rysunek 4: Biblioteka użytkownika z odtwarzaczami audio i licznikiem ważności wypożyczenia.</em>
 </p>
